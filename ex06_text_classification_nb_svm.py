@@ -1,11 +1,3 @@
-# Ex No: 6
-# Date: 5/02/26
-# Title: TEXT CLASSIFICATION USING NAÏVE BAYES AND SUPPORT VECTOR MACHINE (SVM)
-#
-# AIM:
-# To implement text classification using Naïve Bayes and Support Vector Machine
-# (SVM) and evaluate their performance in terms of accuracy and other
-# classification metrics.
 
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
